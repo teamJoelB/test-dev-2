@@ -1,0 +1,66 @@
+.center{
+    text-align: center;
+}
+
+.mt-200{
+    margin-top: 200px;
+}
+.mt-120{
+    margin-top: 120px;
+}
+
+.bt-perso{
+    background-color: slateblue;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    border-color: aliceblue;
+    padding: 7px;
+    font-family: 'Noto Serif';
+}
+
+.bt-perso:hover {
+    background-color: steelblue;
+    border-color: aliceblue;
+}
+
+.zone-saisie {
+    width: 20%;
+    padding: 10px;
+    font-family: 'Noto Serif';
+    font-size: large;
+}
+
+.zone-group {
+    padding: 3px;
+}
+
+.zone{
+    box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.3);
+    width: 40%;
+    margin: auto;
+}
+
+.titre-perso{
+    color: mediumblue;
+    font-family: 'Noto Serif'
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.text-err{
+    font-size: large;
+    color: tomato;
+    font-family: 'Noto Serif';
+}
+
+.p-perso{
+    letter-spacing: 5px;
+    font-family: 'Noto Serif';
+}
+
+.card-shadow{
+    box-shadow: 0 20px 40px rgba(0,  0, 0, 0.30) !important;
+}
